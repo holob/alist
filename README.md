@@ -7,6 +7,6 @@
 
 
 
-<font face="思源黑体" size=4>90后，专业摸鱼选手，业余技术爱好者。</font>
+<center><font face="思源黑体" size=4>90后，专业摸鱼选手，业余技术爱好者。</font></center>
 
-<font face="思源黑体" size=4>若无意中侵犯到您的版权利益，请与我联系，收到信息后将立即处理！</font>
+<center><font face="思源黑体" size=4>若无意中侵犯到您的版权利益，请与我联系，收到信息后将立即处理！</font></center>
