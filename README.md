@@ -1,5 +1,7 @@
 <center><font face="思源黑体" size=7>Holob的资源站</font></center>
-
+<div style="align: center">
+<img src="https://gitee.com/holob/imagebed/raw/master/avatar1.jpg>
+</div>
 ![](https://gitee.com/holob/imagebed/raw/master/avatar1.jpg)
 
 <center><font face="思源黑体" size=5>与我联系</font></center>
