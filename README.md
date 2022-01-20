@@ -1,6 +1,6 @@
 <center><font face="思源黑体" size=7>Holob的资源站</font></center>
 
-<div align="center"> <img src="https://gitee.com/holob/imagebed/raw/master/avatar1.jpg" width = 260 /> </div>
+<center><div align="center"> <img src="https://gitee.com/holob/imagebed/raw/master/avatar1.jpg" width = 260 /> </div></center>
 
 <center><font face="思源黑体" size=5>与我联系</font></center>
 <center><font face="思源黑体" size=5><a href="https://holob.github.io">Blog</a> · <a href="mailto:heroluom@gmail.com">Email</a> · <a href="https://github.com/holob">Github</a></font></center>
