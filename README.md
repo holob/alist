@@ -1,5 +1,5 @@
 <center><font face="黑体" size=7>Holob的资源站</font></center>
-<center><font face="黑体" size=5>个人<a href="https://holob.github.io">博客</a> 随缘更新</font></center>
+<center><font face="黑体" size=6>个人<a href="https://holob.github.io">博客</a> 随缘更新</font></center>
 
 ﻿<font color=red>**本站声明：**</font>
 <font color=red>1. 本站所有资源均收集互联网，仅供学习交流，严禁用于商业用途！</font>
